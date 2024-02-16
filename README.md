@@ -1,2 +1,2 @@
 # Python
-Python Assignments File
+Basic Python Programs solve in this assignment.
